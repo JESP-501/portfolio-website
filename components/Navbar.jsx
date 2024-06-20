@@ -2,7 +2,7 @@ export default function Navbar() {
     return <nav className="nav grid lg:grid-cols-4">
  <div className="grid text-center font-mono lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-center">
         <a
-          href="src\app\page.jsx"
+          href="/"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
         >
           <h2 className={`mb-1 text-2xl font-semibold`}>
@@ -10,7 +10,7 @@ export default function Navbar() {
           </h2>
         </a>
         <a
-          href="src\app\about"
+          href="/about"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800 hover:dark:bg-opacity-30"
         >
           <h2 className={`mb-1 text-2xl font-semibold`}>
@@ -18,7 +18,7 @@ export default function Navbar() {
           </h2>
         </a>
         <a
-          href="src\app\projects\page.jsx"
+          href="/projects"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
         >
           <h2 className={`mb-1 text-2xl font-semibold`}>
