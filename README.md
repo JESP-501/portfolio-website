@@ -1,3 +1,13 @@
+November 6th, 2025:
+This portfolio project will also be archived. I've decided to also make a simpler design without the bloatyness of using React and Next.js.
+I was feeling for a more responsive page that will translate into what I hope is the last time I make another repository. 
+Yes, it's also because I've taken too long to return to this project without finishing it. 
+Like they always say, "Third time's the charm." 
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
